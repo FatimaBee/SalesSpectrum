@@ -134,6 +134,7 @@ SELECT COUNT(*) AS Total_Records FROM sales_data;
 * `dataset.csv` – Raw dataset
 * `queries.sql` – SQL queries used for analysis
 * `SalesSpectrum.pptx` – Project presentation
+* 'SalesSpectrum.pdf'- Quick view of project presentation
 
 ---
 
